@@ -3,6 +3,7 @@ def cyclic_sequence(*args):
         for item in args:
             yield item
 
+
 def main():
     try:
         num_elements = int(input("Введите количество элементов для вывода: "))
