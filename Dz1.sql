@@ -46,4 +46,4 @@ WHERE Department = 'Sales';
 
 SELECT AVG(Salary) AS AverageSalary FROM Employees;
 
---DROP TABLE Employees;
+DROP TABLE Employees;
